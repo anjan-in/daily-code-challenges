@@ -24,3 +24,4 @@ console.log(solutionPlaceholder('test')); // Expected Output: 'test'
 " > $CHALLENGE_DIR/test-cases.ts
 
 echo "✅ Challenge for $DATE created successfully!"
+
